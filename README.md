@@ -29,53 +29,53 @@ This repository contains Power BI reports, dashboards, and datasets designed to 
    ```bash
    git clone https://github.com/mridul-py/Power-BI-for-Waggle.git
 
-Open the .pbix file(s) in the Reports/ folder using Power BI Desktop.
+2. Open the .pbix file(s) in the Reports/ folder using Power BI Desktop.
 
-Connect to your data source or use the sample data provided.
+3. Connect to your data source or use the sample data provided.
 
-Explore the dashboards and visualizations!
+4. Explore the dashboards and visualizations!
 
 📊 Key Visualizations
-Sales Performance Over Time: Track sales trends and identify peak periods.
+1. Sales Performance Over Time: Track sales trends and identify peak periods.
 
-Customer Segmentation Analysis: Understand customer behavior and preferences.
+2. Customer Segmentation Analysis: Understand customer behavior and preferences.
 
-Operational Efficiency: Monitor key operational metrics for improved decision-making.
+3. Operational Efficiency: Monitor key operational metrics for improved decision-making.
 
 🤝 Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
+2. Fork the repository.
 
-Create a new branch for your feature or bugfix:
+3. Create a new branch for your feature or bugfix:
  ```bash
 git checkout -b feature/your-feature-name
 ```
-Commit your changes:
+4. Commit your changes:
 ```bash
 
 git commit -m "Add your message here"
 ```
 
-Push to the branch:
+5. Push to the branch:
 
 ```bash
 git push origin feature/your-feature-name
 ```
-Open a pull request and describe your changes.
+6. Open a pull request and describe your changes.
 
 📄 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
+-- This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
 🙏 Acknowledgments
-Special thanks to the Power BI community for inspiration and resources.
+-- Special thanks to the Power BI community for inspiration and resources.
 
-Built with ❤️ using Power BI.
+-- Built with ❤️ using Power BI.
 
 📧 Contact
-For questions or feedback, feel free to reach out:
+-- For questions or feedback, feel free to reach out:
 
-Mridul Gupta
+-- Mridul Gupta
 
 GitHub: mridul-py
 

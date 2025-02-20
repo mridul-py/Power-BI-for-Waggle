@@ -19,10 +19,6 @@ This repository contains Power BI reports, dashboards, and datasets designed to 
 ---
 
 
-
-
----
-
 ## 🛠️ **Setup and Usage**
 ### Prerequisites
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your machine.

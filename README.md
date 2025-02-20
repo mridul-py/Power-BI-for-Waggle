@@ -18,14 +18,7 @@ This repository contains Power BI reports, dashboards, and datasets designed to 
 
 ---
 
-## 📂 **Repository Structure**
 
-Power-BI-for-Waggle/
-├── Data/ # Contains sample or raw datasets
-├── Reports/ # Power BI report files (.pbix)
-├── Dashboards/ # Exported dashboard visuals or screenshots
-├── Documentation/ # Additional documentation or guides
-└── README.md # Project overview and instructions
 
 
 ---

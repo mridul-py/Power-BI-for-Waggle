@@ -64,18 +64,22 @@ git push origin feature/your-feature-name
 ```
 6. Open a pull request and describe your changes.
 
-📄 License
--- This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
+📄 License:
 
-🙏 Acknowledgments
--- Special thanks to the Power BI community for inspiration and resources.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
 
--- Built with ❤️ using Power BI.
+🙏 Acknowledgments:
+
+
+Special thanks to the Power BI community for inspiration and resources.
+
+Built with ❤️ using Power BI.
 
 📧 Contact
--- For questions or feedback, feel free to reach out:
 
--- Mridul Gupta
+For questions or feedback, feel free to reach out:
+
+Mridul Gupta
 
 GitHub: mridul-py
 
